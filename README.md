@@ -12,3 +12,4 @@ E, para concluir, a análise da coluna CL_FHL ajudou a entender melhor a quantid
 
 Para executar, é preciso ter o arquivo Varejo.csv e ajustar o caminho do arquivo caso ele esteja em outro local# Miniprojeto
 # Miniprojeto
+# Miniprojeto
