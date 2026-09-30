@@ -11,3 +11,4 @@ Logo após,para entender que cada linha representa um item de uma compra e não 
 E, para concluir, a análise da coluna CL_FHL ajudou a entender melhor a quantidade de filhos dos clientes por meio de diferentes cálculos, o agrupamento por CL_GENERO permitiu observar diferenças na quantidade de itens registrados entre os gêneros e também foi possível analisar a quantidade de compras diferentes para cada gênero usando as colunas CL_GENERO e CO_ID, e durante a análise, foi importante perceber que o CO_ID pode aparecer várias vezes porque cada linha representa um item de uma compra. na limpeza dos dados, foram removidas linhas duplicadas e a coluna DATA foi transformada para o formato de data e os valores #N/D encontrados nas categorias foram substituídos por Sem Categoria, deixando os dados mais fáceis de entender.
 
 Para executar, é preciso ter o arquivo Varejo.csv e ajustar o caminho do arquivo caso ele esteja em outro local# Miniprojeto
+# Miniprojeto
