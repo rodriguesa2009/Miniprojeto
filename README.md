@@ -19,3 +19,4 @@ Para executar, é preciso ter o arquivo Varejo.csv e ajustar o caminho do arquiv
 # Miniprojeto
 # Miniprojeto
 # Miniprojeto
+# Miniprojeto
